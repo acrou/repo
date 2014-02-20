@@ -1,8 +1,7 @@
 public class Hello{
 
-System.out.println("Hello Colorado!! :)");
 
-
+int seven = 7; 
 
 
 
